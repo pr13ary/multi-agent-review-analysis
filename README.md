@@ -1,6 +1,5 @@
 <img width="1693" height="929" alt="cover" src="https://github.com/user-attachments/assets/259da4c5-ce07-43d7-a7b3-dccd88628474" />
 
-![cover](./images/cover.png)
 
 # 🧠 상품 리뷰 분석 Multi-Agent 시스템
 
